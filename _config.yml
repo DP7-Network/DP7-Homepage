@@ -1,7 +1,7 @@
 # Site Settings
 title: "DP7 Network"
 description: "A friendly & warm network community"
-baseurl: /DP7-Homepage
+baseurl: DP7-Homepage
 url: https://dp7-network.github.io
 encoding: UTF-8
 

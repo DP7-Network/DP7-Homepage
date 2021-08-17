@@ -1,0 +1,10 @@
+# Site Settings
+title: DP7 Network
+description: A friendly & warm network community
+baseurl: ""
+url: http://startbootstrap.com
+encoding: UTF-8
+
+# Build Settings
+markdown: kramdown
+permalink: pretty

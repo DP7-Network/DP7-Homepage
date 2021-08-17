@@ -1,3 +1,3 @@
 # DP7 Network 主页
 
-[https://dp-7-homepage.vercel.app]
+[https://dp7.vercel.app](https://dp7.vercel.app)

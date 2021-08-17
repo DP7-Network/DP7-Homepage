@@ -29,6 +29,7 @@ layout: default
 
         {{ content }}
 
+        {% if site.type == "blog" %}
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
 
@@ -60,6 +61,7 @@ layout: default
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
+        {% endif %}
 
       </div>
     </div>

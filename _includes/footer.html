@@ -68,7 +68,10 @@
           </li>
           {% endif %}
         </ul>
-        <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
+        <p class="copyright text-muted">
+          Copyright &copy; {{ site.copyright }} {{ 'now' | date: "%Y" }}
+          {% if site.license %} | {{ site.license }}{% endif %}
+        </p>
       </div>
     </div>
   </div>

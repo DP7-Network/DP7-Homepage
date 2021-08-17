@@ -1,9 +1,22 @@
 title:              "DP7 Network"
-email:              ""
+type:               "normal"
+navbar_title:       "DP7 Network Community"
+email:              "la@dp7.link"
 description:        "A warm & friendly community"
-author:             "DP7 Network Community"
+author:             "DP7 Network"
+copyright:          "DP7 Network Community"
 baseurl:            ""
 url:                "https://dp-7-homepage.vercel.app"
+
+license: '<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
+
+menu:
+  - name: "Home"
+    url: '/'
+  - name: "About"
+    url: '/about'
+  - name: "Join Us"
+    url: '/#加入我们'
 
 # Social Profiles
 #twitter_username:   ""

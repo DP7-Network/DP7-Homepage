@@ -16,7 +16,7 @@ menu:
   - name: "About"
     url: '/about'
   - name: "Join Us"
-    url: '/#加入我们'
+    url: '/#joinus'
 
 # Social Profiles
 #twitter_username:   ""

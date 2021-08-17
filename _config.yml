@@ -6,7 +6,7 @@ description:        "Warm & friendly community."
 author:             "DP7 Network"
 copyright:          "DP7 Network"
 baseurl:            ""
-url:                "https://dp-7-homepage.vercel.app"
+url:                "https://dp7.vercel.app"
 
 license: '<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
 
@@ -26,7 +26,7 @@ github_username:    "DP7-Network"
 #linkedin_username:  ""
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown

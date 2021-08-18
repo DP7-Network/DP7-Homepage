@@ -6,7 +6,6 @@
 
 // Global CSS
 @import "./global";
-@import "./custom";
 
 // Components
 @import "./components/buttons";
@@ -17,3 +16,6 @@
 @import "./sections/footer";
 @import "./sections/masthead";
 @import "./sections/post";
+
+// Custom CSS
+@import "./custom";

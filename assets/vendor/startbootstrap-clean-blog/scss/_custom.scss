@@ -19,5 +19,31 @@ blockquote p {
 }
 
 .card.content-card {
+    transition: 0.5s;
     margin-bottom: 30px;
+    border: 0;
+    border-radius: 0;
+    box-shadow: 0 0 20px #0003;
+}
+.card.content-card:hover {
+    transition: 0.5s;
+    border-radius: 0.25rem;
+    box-shadow:0 0 5px #0003
+}
+
+body {
+    font-size: 18px;
+}
+
+@media (min-width: 992px) {
+    .col-lg-8 {
+        flex: 0 0 84%;
+        max-width: 84%;
+    }
+}
+@media (min-width: 768px) {
+    .col-md-10 {
+        flex: 0 0 90%;
+        max-width: 90%;
+    }
 }

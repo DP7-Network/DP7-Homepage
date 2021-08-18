@@ -47,3 +47,9 @@ body {
         max-width: 90%;
     }
 }
+@media (min-width: 1200px) {
+    .col-md-10 {
+        flex: 0 0 76%;
+        max-width: 76%;
+    }
+}
